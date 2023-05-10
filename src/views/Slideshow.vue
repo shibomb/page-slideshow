@@ -62,17 +62,25 @@ const contents = [
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/F8krET83t",
   },
-  {
-    type: "iframe",
-    url: "https://editor.p5js.org/shibomb/full/AwWNhhPjI",
-  },
-  {
-    type: "iframe",
-    url: "https://editor.p5js.org/shibomb/full/EQQxTQoQf",
-  },
+  // {
+  //   type: "iframe",
+  //   url: "https://editor.p5js.org/shibomb/full/AwWNhhPjI",
+  // },
+  // {
+  //   type: "iframe",
+  //   url: "https://editor.p5js.org/shibomb/full/EQQxTQoQf",
+  // },
   {
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/CDCrTnqR-",
+  },
+  {
+    type: "iframe",
+    url: "https://editor.p5js.org/shibomb/full/FXqhZoFyu",
+  },
+  {
+    type: "iframe",
+    url: "https://editor.p5js.org/shibomb/full/EKFIHT7vX",
   },
   {
     type: "iframe",
