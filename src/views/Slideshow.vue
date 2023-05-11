@@ -1,7 +1,7 @@
 <template>
   <page-slideshow
     :contents="contents"
-    :interval="30000"
+    :interval="8000"
     :transition-time="1000"
   ></page-slideshow>
 </template>
