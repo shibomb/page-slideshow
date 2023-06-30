@@ -50,10 +50,10 @@ const contents = [
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/jdipSvxGl",
   },
-  {
-    type: "iframe",
-    url: "https://editor.p5js.org/shibomb/full/5UXwLgtlq",
-  },
+  // {
+  //   type: "iframe",
+  //   url: "https://editor.p5js.org/shibomb/full/5UXwLgtlq",
+  // },
   {
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/QYGEpof9-",
@@ -62,10 +62,10 @@ const contents = [
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/GocLympMX",
   },
-  {
-    type: "iframe",
-    url: "https://editor.p5js.org/shibomb/full/6LdDTx1em",
-  },
+  // {
+  //   type: "iframe",
+  //   url: "https://editor.p5js.org/shibomb/full/6LdDTx1em",
+  // },
   {
     type: "iframe",
     url: "https://editor.p5js.org/shibomb/full/Zd2cPfeU0",
