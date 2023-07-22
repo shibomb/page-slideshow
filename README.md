@@ -13,6 +13,27 @@ npm install
 pnpm install
 ```
 
+## Edit slide urls
+
+edit src/views/Slideshow.vue
+
+```javascript
+const contents = [
+  {
+    type: "iframe",
+    url: "https://editor.p5js.org/shibomb/full/k0q_SyCyy",
+  },
+  {
+    type: "iframe",
+    url: "https://editor.p5js.org/shibomb/full/G2TXqb-QP",
+  },
+  {
+    type: "image",
+    url: "https://something/image/example.jpg",
+  },
+  :
+```
+
 ### Compiles and hot-reloads for development
 
 ```
